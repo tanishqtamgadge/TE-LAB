@@ -1,87 +1,94 @@
-## 🧠 Reality Check
+# 💀 Namaste Duniya | TE-LAB
+
+\<div align="right"\>
+\<img src="[https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)" width="120" /\>
+\</div\>
 
 Yeh repo wo jagah hai jahan:
 
-- deadline tumse tez bhaag rahi hoti hai  
-- aur tum… bas run button dabake zinda rehne ki koshish kar rahe hote ho 😭  
+  * **Deadline** tumse tez bhaag rahi hoti hai 🏃‍♂️
+  * Aur tum… bas **Run Button** dabake zinda rehne ki koshish kar rahe hote ho 😭
 
-Yahan pe code bhi milega…  
-aur thoda sa engineering ka asli dard bhi 😏  
+Yahan pe code bhi milega… aur thoda sa engineering ka asli dard bhi 😏
 
----
+-----
 
-## 🎭 Mood Alignment
+### 🎭 Mood Alignment (Compulsory Hai)
 
-Agar tum:
-- last moment pe kaam karte ho  
-- code samjhe bina run karte ho  
-- aur viva me confidence se jhooth bolte ho  
+| Condition | Status |
+| :--- | :--- |
+| Laptop heating like a toaster? | ✅ |
+| Syntax error on line 404? | ✅ |
+| Viva ka darr? | ✅ |
 
-👉 toh welcome hai, tum apne log ho  
+-----
 
----
+### 😏 Kya Milega (Aur Kaise Milega)
 
-## 😏 Kya Milega
+  * 📂 **Sorted folders** → Life mein chaos hai, repo mein nahi
+  * 🧪 **Direct-run code** → Bas chal jaaye, wahi kaafi hai
+  * 🧠 **Readable logic** → Samajh bhi sakte ho… par karoge nahi
+  * 💬 **Minimal comments** → Kyunki time kis ke paas hai?
 
-- 📂 Sorted folders → life mein chaos, repo mein nahi  
-- 🧪 Direct-run code → bas chal jaaye, wahi kaafi hai  
-- 🧠 Readable logic → samajh sakte ho (par karoge nahi)  
-- 💬 Minimal comments → kyunki time kis ke paas hai  
+-----
 
----
+### 🗂️ Structure (Jitna Dikhta Hai Utna Simple Nahi Hai)
 
-## 🗂️ Structure
+  * `AI/` 🧠 → Artificial Intelligence (Ya artificial confidence)
+  * `ANN/` 🕸️ → Neural Network (Brain ka practical test)
+  * `CN/` 🌐 → Network (Kabhi chale, kabhi na chale)
+  * `Data Science/` 📊 → Data bhi hai, science questionable hai
+  * `DBMS/` 🗄️ → Tables pe tables… join karte karte life join ho jaaye
+  * `Mini_Project/` 🛠️ → Last-night ka real relationship
 
+-----
 
-AI/ → Artificial Intelligence (ya artificial confidence)
-ANN/ → Neural Network (brain ka practical test)
-CN/ → Network (kabhi chale, kabhi na chale)
-Data Science/ → Data bhi hai, science questionable hai
-DBMS/ → Tables pe tables… life bhi join ho jaaye
-
-
-
----
-
-## ⚙️ How To Use (Engineer Mode ON)
+### ⚙️ How To Use (Engineer Mode ON)
 
 ```bash
+# Brain cells recover karne ke liye clone karein
 git clone https://github.com/tanishqtamgadge/TE-LAB.git
-cd "Third-Year-Laboratory"
-cd "Sem 5/AI/Assignment 1/breadth first search"
+
+# Struggle zone mein enter karein
+cd "Third-Year-Laboratory/Sem 5/AI/Assignment 1/breadth first search"
+
+# Umeed pe duniya aur ye script dono tika hai
 python bfs.py
 ```
 
-👉 Agar pehli baar mein run ho gaya…
-toh ya toh miracle hai ya tumne pehle se fix kiya hai
+> 👉 **Note:** Agar pehli baar mein run ho gaya… toh ya toh miracle hai ya tumne pehle se fix kiya hai.
 
-⚠️ Brutal Reality
+-----
 
-Blind copy = short-term happiness
-Viva = long-term embarrassment
+### ⚠️ Brutal Reality
 
-Sir: Explain this logic
-You: "Sir ye self-written hai..." 💀
+  * **Blind copy** = Short-term happiness
+  * **Viva** = Long-term embarrassment
 
-💡 Survival Tips
-Run before submit (haan obvious hai, par tum karoge nahi)
-Thoda edit karo (warna sabka same code = pakde jaoge)
-At least flow samajh lo (minimum damage control)
-🧩 Extra Add-ons
-✅ CONTRIBUTING.md → teamwork ka illusion
-✅ LICENSE → professional look + legal flex
-✅ Viva Q&A → last-minute shield
-✅ Folder READMEs → organized chaos
-🏁 Final Verdict
+> **Sir:** “Explain this logic.”
+>
+> **You:** “Sir ye auto-generated hai… mera matlab… self-written hai” 💀
+
+-----
+
+### 💡 Survival Tips
+
+  * ✅ **Run before submit:** Haan obvious hai, par tum karoge nahi
+  * ✅ **Thoda edit karo:** Warna sabka same code = pakde jaoge
+  * ✅ **Flow samajh lo:** Minimum damage control ke liye zaroori hai
+
+-----
+
+### 🏁 Final Verdict
 
 Yeh repo padhne ke liye nahi bana.
-Yeh repo “kaam nikalne” ke liye bana hai.
+Yeh repo **“kaam nikalne”** ke liye bana hai.
 
-Aur honestly…
-engineering bhi wahi hai 😏
+Aur honestly… engineering bhi wahi hai 😏
 
-📅 Updated: April 6, 2026
+-----
 
-
-
-
+\<div align="center"\>
+\<img src="[https://media.giphy.com/media/3og0IVy2gq2o7wYQbS/giphy.gif](https://media.giphy.com/media/3og0IVy2gq2o7wYQbS/giphy.gif)" width="150" /\>
+\<p\>\<i\>Updated: April 6, 2026\</i\>\</p\>
+\</div\>

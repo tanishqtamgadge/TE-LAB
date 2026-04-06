@@ -1,6 +1,12 @@
-#💀 
+ <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2MnB6NjZ4MDZ1MDlkNXM0ZWR3ajR5bmdwNHl5YWx6Z3A0ODg5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6ML6BklcajjsA/giphy.gif" width="40" height="40" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&height=60&lines=Namaste+Duniya;Engineering+ka+Dard;TE-LAB+Struggles" alt="Typing SVG" /></div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=435&lines=Namaste+Duniya;Engineering+ka+Dard;TE-LAB+Struggles" alt="Typing SVG" />
+<div align="right">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="120" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+</p>
 
 <div align="right">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="120" />

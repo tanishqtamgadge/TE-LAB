@@ -62,22 +62,21 @@ cd "Third-Year-Laboratory/Sem 5/AI/Assignment 1/breadth first search"
 python bfs.py
 ```
 
----
-
 ## 🚨 Reality Check
 
-Agar pehli baar mein run ho gaya...
-toh ya toh miracle hai ya tumne pehle se fix kiya hai thats suspicious na !! 
+Agar code pehli baar mein run ho gaya...  
+toh ya toh miracle hai  
+ya tumne pehle se fix kiya hai — **thoda suspicious lag raha hai 👀**  
 
 ---
 
 ## 💀 Brutal Reality
 
-* Blind copy = Short-term happiness  
-* Viva = Long-term embarrassment  
+- Blind copy = Short-term happiness  
+- Viva = Long-term embarrassment  
 
-**Sir:** Explain this logic
-**You:** Sir ye auto generated hai... mera matlab... self-written hai 💀  
+**Sir:** Explain this logic  
+**You:** Sir ye auto-generated hai… mera matlab… self-written hai 💀  
 
 ---
 

@@ -1,93 +1,145 @@
-# Third-Year-Laboratory
+💀 Namaste Duniya
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg) ![python](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![notebooks](https://img.shields.io/badge/notebooks-Jupyter-orange.svg)
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="typing" width="120" align="right" />
 
-This repository contains semester lab work and experiments for courses in Sem 5 and Sem 6 (AI, CN, DBMS, ANN, Data Science).
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 30" width="120" height="30">
+	<circle cx="15" cy="15" r="8" fill="#ff6b6b">
+		<animate attributeName="cy" values="15;5;15" dur="0.6s" repeatCount="indefinite" begin="0s"/>
+	</circle>
+	<circle cx="60" cy="15" r="8" fill="#ffd93d">
+		<animate attributeName="cy" values="15;5;15" dur="0.6s" repeatCount="indefinite" begin="0.12s"/>
+	</circle>
+	<circle cx="105" cy="15" r="8" fill="#6bcB77">
+		<animate attributeName="cy" values="15;5;15" dur="0.6s" repeatCount="indefinite" begin="0.24s"/>
+	</circle>
+</svg>
 
-## Repository layout
+![Covid Sad Sticker](https://media.giphy.com/media/3og0IVy2gq2o7wYQbS/giphy.gif)
 
-- `Sem 5/` — Assignments and experiments: AI algorithms (A* , BFS, DFS, Prims), Chatbot, CN labs, DBMS SQL files.
-- `Sem 6/` — Neural networks, data science assignments, example notebooks and models.
+Yeh repo wo jagah hai jahan:
 
-Each folder contains small, self-contained experiments. See the subfolders for individual README or notes where present.
+deadline tumse tez bhaag rahi hoti hai
+aur tum… bas run button dabake zinda rehne ki koshish kar rahe hote ho 😭
 
-## Getting started
+Yahan pe code bhi milega…
+aur thoda sa engineering ka asli dard bhi 😏
 
-Prerequisites:
+🎭 Mood Alignment (Compulsory Hai)
 
-- Python 3.8+ for scripts and notebooks
-- Jupyter (optional) for `.ipynb` files
+Agar yeh tum ho… toh sahi jagah aaye ho.
 
-Quick run examples:
+😏 Kya Milega (Aur Kaise Milega)
+📂 Sorted folders → life mein chaos, repo mein nahi
+🧪 Direct-run code → bas chal jaaye, wahi kaafi hai
+🧠 Readable logic → samajh bhi sakte ho… par karoge nahi
+💬 Minimal comments → kyunki time kis ke paas hai
+🗂️ Structure (Jitna Dikhta Hai Utna Simple Nahi Hai)
+AI/             → Artificial Intelligence (ya artificial confidence)
+ANN/            → Neural Network (brain ka practical test)
+CN/             → Network (kabhi chale, kabhi na chale)
+Data Science/   → Data bhi hai, science questionable hai
+DBMS/           → Tables pe tables… join karte karte life join ho jaaye
+Mini_Project/   → Last-night ka real relationship
+⚙️ How To Use (Engineer Mode ON)
+```
+git clone https://github.com/tanishqtamgadge/TE-LAB.git
+cd "Third-Year-Laboratory"
+cd "Sem 5/AI/Assignment 1/breadth first search"
+python bfs.py
+```
 
-1. Run a Python script (example BFS):
+👉 Agar pehli baar mein run ho gaya…
+toh ya toh miracle hai ya tumne pehle se fix kiya hai
 
-   ```powershell
-   cd "Sem 5/AI/Assignment 1/breadth first search"
+⚠️ Brutal Reality
 
-   # Third-Year-Laboratory
+Blind copy = short-term happiness
+Viva = long-term embarrassment
 
-   ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![python](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![notebooks](https://img.shields.io/badge/notebooks-Jupyter-orange.svg)
+Sir: “Explain this logic”
+You: “Sir ye auto-generated hai… mera matlab… self-written hai” 💀
 
-   A collection of semester lab assignments and small experiments used in Computer Networks, Artificial Intelligence, Data Science and Artificial Neural Networks coursework.
+💡 Survival Tips
+Run before submit (haan obvious hai, par tum karoge nahi)
+Thoda edit karo (warna sabka same code = pakde jaoge)
+At least flow samajh lo (minimum damage control)
 
-   This repository is organized by semester and subject so you can quickly find example code, SQL files, and Jupyter notebooks used in course labs.
+🧩 Extra Add-ons (Agar Tum Seriously Lete Ho)
+✅ CONTRIBUTING.md → teamwork ka illusion
+✅ LICENSE → professional look + legal flex
+✅ Viva Q&A → last-minute shield
+✅ Folder READMEs → thoda aur organized chaos
 
-   **Repository structure (high level)**
+![anim](assets/anim-dots.svg)
 
-   - `Sem 5/` — AI experiments (search algorithms, pruning, graph algorithms), Computer Networks lab captures and packet files, DBMS SQL exercises.
-   - `Sem 6/` — Neural network experiments, data science assignments and example notebooks, saved models.
+🏁 Final Verdict
 
-   Each subfolder contains one or more self-contained exercises. Open the folder for short usage notes or run instructions for that experiment.
+Yeh repo padhne ke liye nahi bana.
+Yeh repo “kaam nikalne” ke liye bana hai.
 
-   ## Quick start
+Aur honestly…
+engineering bhi wahi hai 😏
 
-   Prerequisites:
+Updated: April 6, 2026
 
-   - Python 3.8 or newer
-   - (Optional) Jupyter for notebooks
+💀 Namaste Duniya
 
-   Run a script example (Windows PowerShell):
+Yeh repo wo jagah hai jahan:
 
-   ```powershell
-   cd "Sem 5/AI/Assignment 1/breadth first search"
-   python bfs.py
-   ```
+deadline tumse tez bhaag rahi hoti hai
+aur tum… bas run button dabake zinda rehne ki koshish kar rahe hote ho 😭
 
-   Open notebooks:
+Yahan pe code bhi milega…
+aur thoda sa engineering ka asli dard bhi 😏
 
-   ```powershell
-   pip install jupyter
-   jupyter notebook
-   ```
+🎭 Mood Alignment (Compulsory Hai)
 
-   ## Examples included
+Agar yeh tum ho… toh sahi jagah aaye ho.
 
-   - Breadth-first and depth-first search implementations.
-   - A* search experiment.
-   - Alpha–beta pruning example.
-   - Prim's algorithm for minimum spanning tree.
-   - Multiple Computer Networks packet captures and lab files.
-   - Example notebooks for neural network experiments and data science assignments.
+😏 Kya Milega (Aur Kaise Milega)
+📂 Sorted folders → life mein chaos, repo mein nahi
+🧪 Direct-run code → bas chal jaaye, wahi kaafi hai
+🧠 Readable logic → samajh bhi sakte ho… par karoge nahi
+💬 Minimal comments → kyunki time kis ke paas hai
+🗂️ Structure (Jitna Dikhta Hai Utna Simple Nahi Hai)
+AI/             → Artificial Intelligence (ya artificial confidence)
+ANN/            → Neural Network (brain ka practical test)
+CN/             → Network (kabhi chale, kabhi na chale)
+Data Science/   → Data bhi hai, science questionable hai
+DBMS/           → Tables pe tables… join karte karte life join ho jaaye
+Mini_Project/   → Last-night ka real relationship
+⚙️ How To Use (Engineer Mode ON)
+git clone https://github.com/tanishqtamgadge/TE-LAB.git
+cd "Third-Year-Laboratory"
+cd "Sem 5/AI/Assignment 1/breadth first search"
+python bfs.py
 
-   ## Contributing
+👉 Agar pehli baar mein run ho gaya…
+toh ya toh miracle hai ya tumne pehle se fix kiya hai
 
-   Contributions are welcome. If you add or improve experiments, please:
+⚠️ Brutal Reality
 
-   - Keep each exercise isolated in its own folder.
-   - Add a short `README.md` inside the exercise folder describing how to run it.
-   - Follow clear file naming (avoid spaces in filenames used by scripts).
+Blind copy = short-term happiness
+Viva = long-term embarrassment
 
-   If you want, I can add a `CONTRIBUTING.md` with a template and coding conventions.
+Sir: “Explain this logic”
+You: “Sir ye auto-generated hai… mera matlab… self-written hai” 💀
 
-   ## License
+💡 Survival Tips
+Run before submit (haan obvious hai, par tum karoge nahi)
+Thoda edit karo (warna sabka same code = pakde jaoge)
+At least flow samajh lo (minimum damage control)
+🧩 Extra Add-ons (Agar Tum Seriously Lete Ho)
+✅ CONTRIBUTING.md → teamwork ka illusion
+✅ LICENSE → professional look + legal flex
+✅ Viva Q&A → last-minute shield
+✅ Folder READMEs → thoda aur organized chaos
+🏁 Final Verdict
 
-   Unless otherwise noted in a subfolder, code in this repository is provided under the MIT License. Add a `LICENSE` file at the repository root to make this official.
+Yeh repo padhne ke liye nahi bana.
+Yeh repo “kaam nikalne” ke liye bana hai.
 
-   ## Topics
+Aur honestly…
+engineering bhi wahi hai 😏
 
-   AI, algorithms, data-science, neural-networks, networks, labs, notebooks, assignments
-
-   ---
-
-   *Updated on April 6, 2026.*
+Updated: April 6, 2026

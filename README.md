@@ -1,15 +1,6 @@
- <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2MnB6NjZ4MDZ1MDlkNXM0ZWR3ajR5bmdwNHl5YWx6Z3A0ODg5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6ML6BklcajjsA/giphy.gif" width="40" height="40" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&height=60&lines=Namaste+Duniya;Engineering+ka+Dard;TE-LAB+Struggles" alt="Typing SVG" /></div>
-
-<div align="right">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="120" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-</p>
-
-<div align="right">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="120" />
+<div align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f480/512.gif" width="45" height="45" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&height=60&lines=Namaste+Duniya;Engineering+ka+Dard;TE-LAB+Struggles" alt="Typing SVG" style="vertical-align: middle;" />
 </div>
 
 <p align="center">
@@ -28,10 +19,10 @@
 
 ## 😏 Kya Milega (Aur Kaise Milega)
 
-* **📂 Sorted folders** → Life mein chaos hai, repo mein nahi (Dikhawa zaroori hai).
-* **🧪 Direct-run code** → Bas chal jaaye, wahi kaafi hai (Umeed pe duniya tiki hai).
+* **📂 Sorted folders** → Life mein chaos hai, repo mein nahi.
+* **🧪 Direct-run code** → Bas chal jaaye, wahi kaafi hai.
 * **🧠 Readable logic** → Samajh bhi sakte ho… par karoge nahi (Copy-paste OP).
-* **💬 Minimal comments** → Kyunki code toh bhagwan chala raha hai, main nahi.
+* **💬 Minimal comments** → Kyunki code toh bhagwan chala raha hai.
 
 ---
 
@@ -50,14 +41,13 @@
 
 ```bash
 # Brain cells recover karne ke liye clone karein
-git clone https://github.com/tanishqtamgadge/TE-LAB.git
+git clone [https://github.com/tanishqtamgadge/TE-LAB.git](https://github.com/tanishqtamgadge/TE-LAB.git)
 
 # Struggle zone mein enter karein
 cd "Third-Year-Laboratory/Sem 5/AI/Assignment 1/breadth first search"
 
 # Umeed pe duniya aur ye script dono tika hai
 python bfs.py
-```
 
 Alert: Agar pehli baar mein run ho gaya…
 toh ya toh miracle hai ya tumne pehle se fix kiya hai.

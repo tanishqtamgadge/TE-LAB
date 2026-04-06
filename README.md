@@ -1,4 +1,5 @@
-# 💀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=435&lines=Namaste+Duniya;Engineering+ka+Dard;TE-LAB+Struggles" alt="Typing SVG" />
+#
+💀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=435&lines=Namaste+Duniya;Engineering+ka+Dard;TE-LAB+Struggles" alt="Typing SVG" />
 
 <div align="right">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="120" />

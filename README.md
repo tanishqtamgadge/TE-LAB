@@ -90,10 +90,4 @@ Quick run examples:
 
    ---
 
-   If you'd like, I can now:
-
-   - add a `LICENSE` file (MIT),
-   - create a `CONTRIBUTING.md`, or
-   - add repository badges that point to CI or GitHub-specific URLs (I will need your GitHub repo path).
-
    *Updated on April 6, 2026.*

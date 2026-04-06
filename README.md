@@ -14,6 +14,16 @@
 
 ---
 
+Yeh repo wo jagah hai jahan:  
+
+- deadline tumse tez bhaag rahi hoti hai  
+- aur tum… bas `run` button dabake zinda rehne ki koshish kar rahe hote ho 😭  
+
+Yahan pe code bhi milega…  
+aur thoda sa **engineering ka asli dard** bhi 😏  
+
+---
+
 ## 🎭 Mood Alignment (Compulsory Hai)
 
 | Condition | Status |
@@ -40,7 +50,7 @@
 * **CN/ 🌐** → Network  
 * **Data Science/ 📊** → Data + confusion  
 * **DBMS/ 🗄️** → Tables everywhere  
-* **Mini_Project/ 🛠️** → Last night survival  
+
 
 ---
 
@@ -56,7 +66,8 @@ python bfs.py
 
 ## 🚨 Reality Check
 
-Agar pehli baar mein run ho gaya → suspicious hai  
+Agar pehli baar mein run ho gaya...
+toh ya toh miracle hai ya tumne pehle se fix kiya hai thats suspicious na !! 
 
 ---
 
@@ -65,8 +76,8 @@ Agar pehli baar mein run ho gaya → suspicious hai
 * Blind copy = Short-term happiness  
 * Viva = Long-term embarrassment  
 
-**Sir:** Explain this  
-**You:** Sir... self-written 💀  
+**Sir:** Explain this logic
+**You:** Sir ye auto generated hai... mera matlab... self-written hai 💀  
 
 ---
 
@@ -108,6 +119,9 @@ Agar pehli baar mein run ho gaya → suspicious hai
 
 Yeh repo padhne ke liye nahi bana.  
 Yeh repo kaam nikalne ke liye bana hai.  
+
+Aur honestly…
+engineering bhi wahi hai 😏
 
 ---
 

@@ -90,8 +90,6 @@ ya tumne pehle se fix kiya hai — **thoda suspicious lag raha hai 👀**
 
 ## 🎬 Chaos Animations
 
-## 🎬 Chaos Animations
-
 <div align="center">
 
 <table>

@@ -100,10 +100,6 @@ Agar pehli baar mein run ho gaya → suspicious hai
 </tr>
 </table>
 
-<br/>
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" />
-
 </div>
 
 ---

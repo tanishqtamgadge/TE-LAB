@@ -82,9 +82,15 @@ Agar pehli baar mein run ho gaya → suspicious hai
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="220" />
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" />
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="200" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" />
 
 </div>
 

@@ -42,17 +42,20 @@
 
 ```bash
 # Brain cells recover karne ke liye clone karein
-git clone [https://github.com/tanishqtamgadge/TE-LAB.git](https://github.com/tanishqtamgadge/TE-LAB.git)
+git clone https://github.com/tanishqtamgadge/TE-LAB.git
 
 # Struggle zone mein enter karein
 cd "Third-Year-Laboratory/Sem 5/AI/Assignment 1/breadth first search"
 
 # Umeed pe duniya aur ye script dono tika hai
 python bfs.py
-[!CAUTION]
-Alert: Agar pehli baar mein run ho gaya… toh ya toh miracle hai ya tumne pehle se fix kiya hai.
+```
+
+Alert: Agar pehli baar mein run ho gaya…
+toh ya toh miracle hai ya tumne pehle se fix kiya hai.
 
 ⚠️ Brutal Reality
+
 Blind copy = Short-term happiness.
 
 Viva = Long-term embarrassment.

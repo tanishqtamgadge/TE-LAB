@@ -24,50 +24,76 @@ Quick run examples:
 
    ```powershell
    cd "Sem 5/AI/Assignment 1/breadth first search"
+
+   # Third-Year-Laboratory
+
+   ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![python](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![notebooks](https://img.shields.io/badge/notebooks-Jupyter-orange.svg)
+
+   A collection of semester lab assignments and small experiments used in Computer Networks, Artificial Intelligence, Data Science and Artificial Neural Networks coursework.
+
+   This repository is organized by semester and subject so you can quickly find example code, SQL files, and Jupyter notebooks used in course labs.
+
+   **Repository structure (high level)**
+
+   - `Sem 5/` — AI experiments (search algorithms, pruning, graph algorithms), Computer Networks lab captures and packet files, DBMS SQL exercises.
+   - `Sem 6/` — Neural network experiments, data science assignments and example notebooks, saved models.
+
+   Each subfolder contains one or more self-contained exercises. Open the folder for short usage notes or run instructions for that experiment.
+
+   ## Quick start
+
+   Prerequisites:
+
+   - Python 3.8 or newer
+   - (Optional) Jupyter for notebooks
+
+   Run a script example (Windows PowerShell):
+
+   ```powershell
+   cd "Sem 5/AI/Assignment 1/breadth first search"
    python bfs.py
    ```
 
-2. Open a notebook:
+   Open notebooks:
 
    ```powershell
    pip install jupyter
    jupyter notebook
    ```
 
-## Conventions
+   ## Examples included
 
-- Keep one experiment per folder.
-- Name long paths and files with simple, descriptive names (avoid spaces in scripts used by automation).
+   - Breadth-first and depth-first search implementations.
+   - A* search experiment.
+   - Alpha–beta pruning example.
+   - Prim's algorithm for minimum spanning tree.
+   - Multiple Computer Networks packet captures and lab files.
+   - Example notebooks for neural network experiments and data science assignments.
 
-## Suggestions & enhancements
+   ## Contributing
 
-To make this repository clearer and more attractive, consider adding:
+   Contributions are welcome. If you add or improve experiments, please:
 
-- A `README.md` at each major folder with a short description and run examples.
-- A top-level `CONTRIBUTING.md` describing how to add improvements and naming conventions.
-- A `LICENSE` file (MIT or similar) so others know reuse rules.
-- Badges in the top-level README (Python version, notebook status, license).
-- A `docs/` or `examples/` folder with screenshots or short demo notebooks showing outputs.
-- Simple CI (GitHub Actions) to run linting or notebooks checks.
+   - Keep each exercise isolated in its own folder.
+   - Add a short `README.md` inside the exercise folder describing how to run it.
+   - Follow clear file naming (avoid spaces in filenames used by scripts).
 
-## Topics
+   If you want, I can add a `CONTRIBUTING.md` with a template and coding conventions.
 
-Suggested repository topics (also added to `.github/repo-topics.txt`):
+   ## License
 
-- AI
-- algorithms
-- data-science
-- neural-networks
-- networks
-- labs
-- notebooks
-- assignments
+   Unless otherwise noted in a subfolder, code in this repository is provided under the MIT License. Add a `LICENSE` file at the repository root to make this official.
 
+   ## Topics
 
-## Contact
+   AI, algorithms, data-science, neural-networks, networks, labs, notebooks, assignments
 
-If you want, I can add `CONTRIBUTING.md`, `LICENSE`, badges, or an examples folder next — tell me which ones to create.
+   ---
 
----
+   If you'd like, I can now:
 
-*Generated on April 6, 2026.*
+   - add a `LICENSE` file (MIT),
+   - create a `CONTRIBUTING.md`, or
+   - add repository badges that point to CI or GitHub-specific URLs (I will need your GitHub repo path).
+
+   *Updated on April 6, 2026.*

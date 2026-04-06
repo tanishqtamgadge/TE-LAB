@@ -80,15 +80,27 @@ Agar pehli baar mein run ho gaya → suspicious hai
 
 ## 🎬 Chaos Animations
 
+## 🎬 Chaos Animations
+
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
 <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="200" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+</td>
 
-<br/><br/>
+<td align="center">
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
+</td>
+
+<td align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" />
 
